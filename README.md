@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## I am [Abolfazl Abdollahi](https://abolfazlabdollahii.com)
+## I am [Abolfazl Abdollahi](#)
 A software engineer focused on web development and PHP plugin development.
 
 I currently work as a PHP plugin developer, building and maintaining production-ready plugins and supporting real-world systems.  
