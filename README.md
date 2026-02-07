@@ -1,65 +1,32 @@
-## Hi there <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" width="35px" height="35px" />
+## Hi there 👋
 
-## I am [abolfazl abdollahi](https://abolfazlabdollahii.com)
-A Front-end engineer with couple of years experience in developing web applications, ERP solutions and CRM softwares. Someone who is interested and fascinated to develop complex apps using JS/TS programming language. 
+## I am [Abolfazl Abdollahi](https://abolfazlabdollahii.com)
+A software engineer focused on web development and PHP plugin development.
 
-- 🔭 I’m currently working on Opal-Website and Food-courtWEB
-- 🌱 I’m currently learning ML and updating myself on VueJS
-- 👯 I’m looking to collaborate on Etalon
-- 🤔 I’m looking for a full time job in Germany
-- 💬 Ask me about Front-end Solutions and Startups Business Strategies 
-- 📫 How to reach me: check contact
+I currently work as a PHP plugin developer, building and maintaining production-ready plugins and supporting real-world systems.  
+I have a background in front-end development and I care about clean, maintainable code and practical problem-solving.
 
-<!-- 
-- <img src="./" width="25px"> Opal Shopping Center
--->
+- 🌱 Currently learning Vue.js
+- 💬 Interested in web development, plugins, and clean code
+- 📫 Reach me via the contact links below
 
 # Tech Stack
 
 ### Web Development
 
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-  ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)&nbsp;
-
-
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
 # Contact Me
 
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.LinkedIn.com/in/abolfazl-abdollah-i)&nbsp;
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdollahibusiness9@gmail.com
-)&nbsp;
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+989128345226)&nbsp;
-  [![Telegram](https://img.shields.io/badge/Telegram-%230088FF.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/@abolfazl_4bdollahi)&nbsp;
-  
-  <!-- [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://#) -->
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.LinkedIn.com/in/abolfazl-abdollah-i)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdollahibusiness9@gmail.com)&nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-%230088FF.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/abolfazl_4bdollahi)&nbsp;
 
-
-# Github Statistic
-
-<div align="center">
-  <a href="https://github.com/abolfazlabdollahii">
-    <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com?user=abolfazlabdollahii&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&hide_border=true">
-    <img width="49%" height="auto" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abolfazlabdollahii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
- 
-
-
-  </a>
-  <a href="https://github.com/abolfazlabdollahii">
-  <img width="100%" height="auto" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abolfazlabdollahii&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
-  </a>
-
-![abolfazl abdollahi's's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abolfazlabdollahii&hide_border=true&bg_color=050F2C&color=0194DD&line=0194DD&point=2DDD97)
-      
-</div>
-
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=abolfazlabdollahii&theme=algolia&no-frame=true&margin-w=10&column=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-
+<!--
+GitHub stats, trophies, and graphs intentionally removed for a cleaner and more personal profile.
+-->
