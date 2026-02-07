@@ -24,7 +24,7 @@ I have a background in front-end development and I care about clean, maintainabl
 # Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.LinkedIn.com/in/abolfazl-abdollah-i)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdollahibusiness9@gmail.com)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aabolfazlabdollahi@gmail.com)&nbsp;
 [![Telegram](https://img.shields.io/badge/Telegram-%230088FF.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/abolfazl_4bdollahi)&nbsp;
 
 <!--
